@@ -1,5 +1,7 @@
 # Shortest Tutorial Ever
 
+![Shortest Tutorial Ever](ste.png)
+
 A collection of single page syntax tutorials for every language and technology in the development scene. 
 
 ## Shortest? But... Why?
