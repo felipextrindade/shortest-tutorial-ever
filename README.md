@@ -37,7 +37,7 @@ To contribute, please take note on the following:
 * Every repo must be named **shortest-[TECH_NAME]-tutorial-ever**. But don't worry, you can omit something if the name's too long.
 * Every file must be in the language/technology own extension. (.go for Golang, .java for Java, .js for Javascript and so on)
 * Every comment must be made in the language/technology own comment syntax.
-* Make sure that your code runs. The examples must work. If something special is needed to run the code (frameworks, config, etc), add it to the file in the form of a comment.
+* Make sure that your code runs. The examples must work. If something special is needed to run the code (frameworks, config, etc), add it to the file in the form of a comment or the repo's README.
 * After you created a tutorial, raise a PR to this README adding your Shortest Tutorial Ever to the list - pointing to the repo.
 * Feel free to add your name to the contributors list below.
 
