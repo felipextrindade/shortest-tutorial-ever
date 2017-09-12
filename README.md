@@ -1,6 +1,6 @@
 # Shortest Tutorial Ever
 
-![Shortest Tutorial Ever](ste.png)
+![Shortest Tutorial Ever](https://github.com/felipextrindade/shortest-tutorial-ever/blob/master/ste.PNG?raw=true)
 
 A collection of single page syntax tutorials for every language and technology in the development scene. 
 
