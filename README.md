@@ -8,7 +8,7 @@ A collection of single page syntax tutorials for every language and technology i
 
 When learning new languages or technologies, we know that there is many differences between the new and previous knowledge.
 
-However, if a C programmer wants to learn Golang, he doesn't need to start with a 40hrs+ course or see an youtube video with 15 minutes about the history of Go. **Sometimes, we just need a cheatsheet with the language syntax to start learning**.
+However, if a C programmer wants to learn Golang, he doesn't need to start with a 40hrs+ course or see a video with 15 minutes about the history of Go. **Sometimes, we just need a cheatsheet with the language syntax to start learning**.
 
 This is what we are aiming with this project: simple, kickstart knowledge to learn new things.
 
