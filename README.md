@@ -14,7 +14,7 @@ This is what we are aiming with this project: simple, kickstart knowledge to lea
 
 ### Shortest Tutorials EVER - The list
 * [C [COMING SOON]]()
-* [Golang [COMING SOON]]()
+* [Golang](https://github.com/fesiqp/shortest-golang-tutorial-ever)
 * [Javascript [COMING SOON]]()
   * [ES6 [COMING SOON]]()
   * [Angular [COMING SOON]]()
@@ -44,5 +44,5 @@ To contribute, please take note on the following:
 ### Beware: if your repo doesn't follow the above, we won't accept it as part of Shortest Tutorials Ever.
 
 ## Contributors
-* [Felipe Trindade](https://github.com/felipextrindade)
-* [Felipe Siqueira](https://github.com/fesiqp)
+* [Felipe Trindade](https://github.com/felipextrindade) - Original Idea
+* [Felipe Siqueira](https://github.com/fesiqp) - Golang
