@@ -14,7 +14,7 @@ This is what we are aiming with this project: simple, kickstart knowledge to lea
 
 ### Shortest Tutorials EVER - The list
 * [C [COMING SOON]]()
-* [Golang](git@github.com:fesiqp/shortest-tutorial-ever.git)
+* [Golang](https://github.com/fesiqp/shortest-golang-tutorial-ever)
 * [Javascript [COMING SOON]]()
   * [ES6 [COMING SOON]]()
   * [Angular [COMING SOON]]()
