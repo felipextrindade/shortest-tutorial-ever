@@ -33,7 +33,7 @@ This is what we are aiming with this project: simple, kickstart knowledge to lea
 ## Contributing
 
 To contribute, please take note on the following:
-* Every repo must contain a **minimum files possible + README (optional)**
+* Every repo must contain **minimum files possible + README (optional)**
 * Every repo must be named **shortest-[TECH_NAME]-tutorial-ever**. But don't worry, you can omit something if the name's too long.
 * Every file (except the README) must be in the language/technology own extension. (.go for Golang, .java for Java, .js for Javascript and so on)
 * Every comment must be made in the language/technology own comment syntax.
